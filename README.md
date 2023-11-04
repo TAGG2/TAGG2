@@ -1,11 +1,9 @@
-<p align="center">
-  <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66141195/218668081-bb444285-0ae1-4bca-9d89-bbe9ff1c40cb.gif" alt="my banner"></a>
-</p>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tushar2704" alt="tushar2704" /> </h3>
+
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=TAGG2" alt="tushar2704" /> </h3>
 
 <h1 align="center">
-Hi there, I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Tushar Aggarwal</a> 👋
+Hi there, I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Tushar Aggarwal(Backup Git)</a> 👋
 </h1>
 
 <h2 align="center">
